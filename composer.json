@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/OsStudios_PagSeguro",
+    "name": "OpenMageModuleFostering\/OsStudios_PagSeguro",
     "type": "magento-module",
     "license": "GNU-General-Public-License-(GPL)",
     "homepage": "",
-    "description": "Novo módulo para integração completa com PagSeguro da UOL.",
+    "description": "Novo m\u00f3dulo para integra\u00e7\u00e3o completa com PagSeguro da UOL.",
     "authors": [
-    {
-        "name": "Tiago Sampaio",
-        "email": "tiago.sampaio@osstudios.com.br"
-    }
-],
+        {
+            "name": "Tiago Sampaio",
+            "email": "tiago.sampaio@osstudios.com.br"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
