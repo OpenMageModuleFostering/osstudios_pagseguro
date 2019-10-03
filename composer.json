@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/OsStudios_PagSeguro",
+    "name": "openmage-module-fostering\/osstudios_pagseguro",
     "type": "magento-module",
-    "license": "GNU-General-Public-License-(GPL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Novo m\u00f3dulo para integra\u00e7\u00e3o completa com PagSeguro da UOL.",
     "authors": [
